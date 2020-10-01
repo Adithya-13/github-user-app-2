@@ -19,7 +19,7 @@ class MainViewModel : ViewModel() {
 
         val listItems = ArrayList<UserItems>()
 
-        val apiKey = "b2379b486548870cbfd0bebdd0cea8e43bdb078e"
+        val apiKey = "YOUR-API-KEY"
         val url = "https://api.github.com/search/users?q=$query"
 
         val client = AsyncHttpClient()
