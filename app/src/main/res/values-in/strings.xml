@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="search">Cari</string>
+    <string name="language">Ganti bahasa</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="search_here">Cari disini</string>
+    <string name="please_search_a_user">Silahkan cari Pengguna</string>
+    <string name="not_found">Tidak ditemukan</string>
+    <string name="type">Tipe</string>
+    <string name="name">Nama</string>
+    <string name="company">Perusahaan</string>
+    <string name="company_user">Perusahaan Pengguna</string>
+    <string name="location">Lokasi</string>
+    <string name="name_user">Nama</string>
+    <string name="repository">Repository</string>
+    <string name="repository_user">Repository Pengguna</string>
+    <string name="followers_title">Pengikut</string>
+    <string name="following_title">Mengikuti</string>
+    <string name="followers">Pengikut %d</string>
+    <string name="following">Mengikuti %d</string>
+
+</resources>
